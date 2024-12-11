@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <rpc/rpc.h>
+#include <tirpc/rpc/rpc.h>
 #include "browser.h"
 #include <stdlib.h>
 #include <unistd.h>
